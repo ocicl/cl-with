@@ -1,0 +1,9 @@
+* cl-with
+
+WITH- macro groups all with- clauses, rebinds slot accessors for structs, class instances and foreign objects.
+
+|---------+-----------------------------------------------|
+| source  | git:https://github.com/stacksmith/cl-with.git |
+| commit  | c8e3466                                       |
+| systems | cl-with                                       |
+|---------+-----------------------------------------------|
